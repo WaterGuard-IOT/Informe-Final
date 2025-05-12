@@ -447,5 +447,535 @@ Las comunidades rurales a menudo enfrentan desafíos en el acceso al agua segura
 | | Debilidades | Alto costo de implementación, lo que puede limitar su acceso a pequeñas empresas o comunidades con recursos limitados. Dependencia de proyectos a gran escala que requieren largos ciclos de venta y desarrollo. Posible rigidez en la adaptación de soluciones para mercados locales con infraestructuras menos avanzadas. | Competencia en precios con actores locales o empresas más pequeñas que ofrecen soluciones más económicas. Complejidad en la implementación de sus soluciones, lo que puede ser un obstáculo para clientes con menos recursos técnicos. Alta dependencia de la venta de hardware, lo que puede limitar la flexibilidad en modelos de negocio basados en software. | Altos costos operativos y de implementación que pueden limitar su acceso a ciertos mercados. Dependencia de proyectos a gran escala que pueden verse afectados por cambios en el financiamiento o políticas gubernamentales. Complejidad en la gestión de soluciones químicas y de tratamiento que requieren un alto nivel de especialización. | Alto costo de sus soluciones, lo que puede ser prohibitivo para pequeños y medianos clientes. Complejidad en la integración de sistemas, lo que requiere un alto nivel de personalización y soporte técnico. Dependencia de la venta de soluciones complejas que pueden tener largos ciclos de venta e implementación. |
 | | Amenazas | Competencia de empresas más pequeñas y ágiles que ofrecen soluciones más económicas. Cambios en las regulaciones gubernamentales que podrían afectar su capacidad para operar en ciertos mercados. Dependencia de clientes grandes y proyectos gubernamentales que pueden verse afectados por cambios políticos. | Rápido avance tecnológico de nuevos competidores que pueden ofrecer soluciones más avanzadas o disruptivas. Riesgos regulatorios y cambios en las políticas ambientales que pueden afectar el desarrollo de proyectos. Presión de costos en mercados altamente competitivos, lo que puede reducir los márgenes de ganancia. | Competencia de nuevas empresas con soluciones innovadoras y más económicas. Cambios en las regulaciones internacionales que podrían impactar su modelo de negocio. Fluctuaciones en el costo de los insumos químicos utilizados en sus procesos de tratamiento. | Avance de competidores con soluciones más asequibles y fáciles de implementar. Riesgos asociados a la dependencia de grandes proyectos gubernamentales e industriales. Vulnerabilidad a cambios en las políticas energéticas y ambientales que podrían impactar su oferta de productos. |
 
+### 2.1.2. Estrategias y tácticas frente a competidores
 
+**Innovación en Usabilidad:**
 
+- **Estrategia:** Desarrollar una plataforma extremadamente intuitiva y fácil de usar específicamente diseñada para comunidades rurales con diferentes niveles de alfabetización digital.
+
+- **Táctica:** Invertir en diseño UX/UI centrado en usuarios rurales, con interfaces visuales simples, instrucciones claras en lenguaje local y mínima necesidad de texto. Ofrecer una aplicación móvil que funcione con conexión intermitente y capacitación comunitaria para su uso.
+
+**Personalización y Flexibilidad:**
+
+- **Estrategia:** Ofrecer soluciones altamente personalizables que se adapten a las necesidades específicas de cada cliente, desde pequeñas instalaciones hasta grandes infraestructuras.
+
+- **Táctica:** Implementar módulos adicionales que los clientes puedan agregar según sus necesidades, como análisis predictivo y gestión de calidad del agua.
+
+**Optimización de Costos de Implementación:**
+
+- **Estrategia:** Reducir los costos iniciales para las comunidades rurales a través de soluciones extremadamente económicas, de bajo mantenimiento y que puedan funcionar con infraestructura mínima.
+
+- **Táctica:** Desarrollar kits de instalación IoT de bajo costo que los propios miembros de la comunidad puedan configurar, con componentes resistentes a condiciones adversas y manuales visuales paso a paso. Incluir opciones de alimentación por energía solar para zonas sin electricidad estable.
+
+**Marketing Educativo:**
+
+- **Estrategia:** Implementar una campaña de marketing que eduque al mercado sobre la importancia del monitoreo en tiempo real de recursos hídricos y los beneficios de la tecnología IoT.
+
+- **Táctica:** Crear webinars, whitepapers, y casos de estudio que demuestran cómo WaterGuard puede mejorar la eficiencia y reducir costos. Establecer un blog corporativo para posicionarse como líder de opinión en la gestión de recursos hídricos.
+
+## 2.2. Entrevistas
+
+### 2.2.1. Diseño de entrevistas
+
+Preguntas Iniciales: Información Básica
+
+1. **¿Cuál es su nombre?**
+
+- **Objetivo:** Identificar al entrevistado.
+
+2. **¿Cuál es su edad?**
+
+- **Objetivo:** Recopilar datos demográficos que puedan influir en la percepción y adopción de la tecnología.
+
+3. **¿Cuál es su rol o cargo dentro de su organización/comunidad?**
+
+- **Objetivo:** Entender la responsabilidad específica del entrevistado en la gestión del agua o infraestructura.
+
+4. **¿Cuánto tiempo lleva en su cargo actual?**
+
+- **Objetivo:** Evaluar la experiencia del entrevistado en la gestión del agua y otros recursos.
+
+5. **¿En qué región o localidad está ubicada su organización/comunidad?**
+
+- **Objetivo:** Contextualizar la situación geográfica, que puede influir en los desafíos y necesidades relacionados con la gestión del agua.
+
+Preguntas Generales sobre la Gestión del Agua
+
+1. **¿Cuáles son los principales desafíos que enfrenta actualmente en la gestión del agua?**
+
+- **Objetivo:** Identificar los problemas y obstáculos que encuentran en su día a día.
+
+2. **¿Qué herramientas o métodos utiliza actualmente para monitorear y gestionar el uso del agua?**
+
+- **Objetivo:** Conocer las soluciones actuales y evaluar su efectividad.
+
+3. **¿Qué tan crítico es para usted el monitoreo en tiempo real del agua en su entorno?**
+
+- **Objetivo:** Medir la importancia del monitoreo en tiempo real en su contexto.
+
+Preguntas de Cierre
+
+1. **¿Qué beneficios espera obtener de una nueva tecnología de gestión del agua?**
+
+- **Objetivo:** Identificar los factores decisivos para la adopción de la solución.
+
+2. **¿Estaría dispuesto a participar en un piloto o prueba de la tecnología propuesta por WaterGuard? ¿Por qué?**
+
+- **Objetivo:** Medir el interés en una prueba inicial de la solución.
+
+3. **¿Hay algún otro aspecto de la gestión del agua que le gustaría que abordamos con esta tecnología?**
+
+- **Objetivo:** Identificar posibles mejoras o expansiones de la solución.
+
+### 2.2.2. Registro de entrevistas
+
+**Comunidades rurales**
+
+Primer Entrevista:
+
+Descripción del entrevistado:
+
+![](media/image13.png)
+
+- **Nombre**: jhon mamani Quispe
+
+- **Edad**: 22 años
+
+- **Distrito**: La Victoria, Lima
+
+- **Resumen**: Jhon es un chico de una comunidad rural donde ayuda a sus padres con los cultivos desde que acabó la secundaria, por otro lado nos menciona que a veces no hay suministro de agua por problemas su sistema, como atascos, o que simplemente el rio no fluctúa suficiente, además de esto también nos menciona que si le gustaria nuestra solución y nos recomendó de tener distintos medio para la recolección del suministro de agua
+
+- **Link de la Entrevista:**
+
+> [https://drive.google.com/file/d/1xZ7Q-G_bLlCjzRgpAR1VzYxvMg31LPRi/view?usp=sharing](https://drive.google.com/file/d/1xZ7Q-G_bLlCjzRgpAR1VzYxvMg31LPRi/view?usp=sharing)
+
+Segunda Entrevista:
+
+![](media/image14.png)
+
+- **Nombre**: Anderson Macedo
+
+- **Edad**: 24 años
+
+- **Distrito**: Puno
+
+- **Resumen**: Anderson Macedo, un joven de 24 años de Puno, apoya como voluntario en su comunidad en temas de agua desde hace dos años. Señala que enfrentan problemas como la falta de monitoreo del agua, fugas y distribución ineficiente, especialmente en épocas de sequía. Actualmente, todo se gestiona de forma manual y considera crítico contar con un sistema en tiempo real. Está dispuesto a participar en un piloto tecnológico que permita controlar mejor el agua, reducir desperdicios y educar a la comunidad sobre su uso.
+
+- **Link de la Entrevista:**
+
+> [https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/EQVGlvs4oFNCvFjIItE3SpgBUyXDKfwkDASS4hL9BOJqRw?e=7NZLOj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201c179_upc_edu_pe/EQVGlvs4oFNCvFjIItE3SpgBUyXDKfwkDASS4hL9BOJqRw?e=7NZLOj&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Tercera Entrevista:
+
+Descripción del Entrevistado:
+![](media/image15.png)
+
+- **Nombre**: Paul Vega
+
+- **Edad**: 20 años
+
+- **Distrito**: Lurigancho
+
+- **Resumen**: El entrevistado nació y vivió gran parte de su vida en el departamento de Ayacucho, específicamente en el pueblo-comunidad de Spite dentro de la provincia Victor Fajardo. Nos cuenta que al menos 2 veces a la semana tenían problemas con la conexión hacia su tanque de agua que usaban para la cosecha y a la vez para su consumo, nos cuenta que tener la gestión al alcance de la mano y ver el estado del agua ayudaría bastante como ver el PH y demás, debido a que la gente de dónde vive a veces no hierven bien el agua.
+
+- **Link de la entrevista:**
+
+> [https://youtu.be/aXAZWVor7tA](https://youtu.be/aXAZWVor7tA)
+
+### 2.2.3. Análisis de entrevistas
+
+**Comunidades Rurales:**
+
+1. Necesidades: Las comunidades rurales necesitan herramientas sencillas que les permitan distribuir el agua de manera equitativa y eficiente para sus cultivos y consumo doméstico. Su prioridad es asegurar la disponibilidad del agua durante todo el año, especialmente en épocas de sequía, y hacerlo de manera sostenible.
+
+2. Frustraciones: Las principales frustraciones en las comunidades rurales están relacionadas con la falta de acceso a tecnologías y la limitada capacitación disponible para aprender a utilizar herramientas de gestión del agua. Además, enfrentan problemas de recursos limitados, lo que dificulta la adopción de nuevas tecnologías.
+
+3. Soluciones Deseadas: Las comunidades rurales buscan soluciones accesibles, económicas y fáciles de utilizar que no requieran un alto nivel técnico. Quieren herramientas que les permitan mejorar la gestión del agua sin complicaciones y que promuevan la sostenibilidad en sus prácticas agrícolas y domésticas.
+
+4. Expectativas: Las comunidades rurales esperan mejorar la distribución del agua en un porcentaje considerable, reducir las pérdidas de este recurso, y asegurarse de que todos los miembros de la comunidad puedan acceder a la misma capacitación y conocimiento sobre el uso eficiente del agua. También esperan que las soluciones sean sostenibles y asequibles para su entorno.
+
+## 2.3. Needfinding
+
+### 2.3.1. User Personas
+
+**La siguiente ficha es para el segmento de personas de comunidades rurales:** En este caso, nos enfocamos en la historia de Rosa, una mujer que vive en una comunidad rural y se encarga de gestionar el uso del agua para su hogar y sus cultivos. Rosa busca herramientas que le permitan distribuir el agua de manera eficiente y asegurar su disponibilidad durante las temporadas secas. Sin embargo, sus principales frustraciones son la falta de acceso a tecnología asequible, la escasez de agua en épocas críticas y la dificultad para mantener un control preciso del recurso.
+
+**Usuario 1:** Comunidades rurales
+
+![](media/image16.png)
+
+### 2.3.2. User Task Matrix
+
+La sección de User Task Matrix es una herramienta útil para entender las tareas y objetivos que cada User Persona desea lograr al utilizar nuestro producto. En esta sección, se presentarán las matrices de tareas para cada uno de los User Personas previamente definidos.
+
+**Usuario 1: Comunidades Rurales**
+
+| **Task** | **Rosa** |  |
+|----------|----------|--|
+| | **Frecuencia** | **Importancia** |
+| Distribuir el agua para cultivos | Alta | Alta |
+| Asegurar el abastecimiento del agua | Alta | Alta |
+| Participar en reuniones comunitarias | Media | Media |
+| Implementar prácticas sostenibles | Media | Alta |
+
+### 2.3.3. User Journey Mapping
+
+La sección de User Journey Mapping es una herramienta útil para entender la experiencia del usuario desde el inicio hasta el final de su interacción con nuestro producto o servicio. En esta sección, se presentarán los mapas de experiencia para cada uno de los User Personas previamente definidos.
+
+**Usuario 1:** Usuario de comunidades rurales
+
+![](media/image17.png)
+
+### 2.3.4. Empathy Mapping
+
+**Usuario 1:** Usuario de comunidades rurales
+
+![](media/image18.png)
+
+### 2.3.5. As-is Scenario Mapping
+
+Comunidades rurales que gestionan el agua
+
+![](media/image19.png)
+
+# Capítulo III: Requirements Specification
+
+## 3.1. To-Be Scenario Mapping
+
+Hogares en comunidades rurales que gestionan el agua:
+
+![](media/image20.png)
+
+Link miro:
+[https://miro.com/welcomeonboard/WlVRUmt4UWkyNWdLaEVucmx0dnNGMmd4Q0NiVUNWZmxCUHNOaUpKOGF1MGNWTXRpaHlHR1czMjJ5ZFU4SWdLdUJqZjJUc0w1NkdoTjZtNkVPbnZBemRQOGdiNnI4MzFRQTB3eHdmRWRjcmZNRmJUS3JlMXA5VC9hSzRrVHFxbHNQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=948205957300](https://miro.com/welcomeonboard/WlVRUmt4UWkyNWdLaEVucmx0dnNGMmd4Q0NiVUNWZmxCUHNOaUpKOGF1MGNWTXRpaHlHR1czMjJ5ZFU4SWdLdUJqZjJUc0w1NkdoTjZtNkVPbnZBemRQOGdiNnI4MzFRQTB3eHdmRWRjcmZNRmJUS3JlMXA5VC9hSzRrVHFxbHNQdGo1ZEV3bUdPQWRZUHQzSGl6V2NBPT0hdjE=?share_link_id=948205957300)
+
+## 3.2. User Stories
+
+Epics:
+
+**EP-001**: Configuración e Integración de Sensores IoT.
+
+**EP-002**: Monitoreo y Gestión en Tiempo Real.
+
+**EP-003**: Capacitación y Soporte al Usuario.
+
+**EP-004**: Personalización y Acceso a Datos.
+
+**EP-005**: Automatización y Reportes.
+
+**EP-006**: Gestión y Actualización del Sistema.
+
+**EP-007**: Soporte Técnico y Monitoreo de Estado.
+
+**EP-008**: Seguridad y Auditoría de Datos.
+
+**EP-009**: Automatización y Gestión del Control de Bombas de Agua
+
+| **US-ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **ID de Epic Relacionado** |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-001 | Configurar sensores IoT | Como técnico, quiero configurar los sensores IoT para monitorear los tanques de agua. | **Escenario: Conexión Exitosa de Sensores** **Dado que** el técnico tiene los sensores IoT listos para instalar. **Cuando** conecta los sensores a los tanques de agua y los empareja con el sistema central. **Entonces** el sistema confirma la conexión exitosa mostrando los datos en tiempo real. **Escenario: Verificación Automática de Sensores** **Dado que** el técnico ha instalado los sensores IoT en los tanques. **Cuando** inicia la configuración en el panel de control del sistema. **Entonces** el sistema realiza una verificación automática y muestra un mensaje de éxito si todos los sensores están funcionando correctamente. | EP-001 |
+| US-002 | Integrar Sensores con Base de Datos y Backend | Como usuario, quiero que los datos de los sensores se almacenen en una base de datos en tiempo real y luego se envíen al backend para su procesamiento y visualización. | **Escenario: Almacenamiento y Envío de Datos a la Base de Datos** **Dado que** los sensores IoT están configurados correctamente y transmiten datos,  **Cuando** los sensores capturan datos como el nivel de agua, pH, temperatura, etc., **Entonces,** los datos se envían y se almacenan en la base de datos en tiempo real. **Escenario: Envío de Datos al Backend** **Dado que** los datos están almacenados en la base de datos, **Cuando** el sistema recibe los datos de la base de datos, **Entonces**, el backend procesa la información y la prepara para ser visualizada por el usuario en la interfaz de la plataforma. | EP-001 |
+| US-003 | Monitorear datos de agua | Como agricultor, quiero poder monitorear el nivel de agua en los tanques a través de una app móvil. | **Escenario: Visualización del Nivel de Agua** **Dado que** el agricultor ha instalado los sensores IoT en los tanques de agua y ha descargado la app móvil. **Cuando** abre la app y selecciona el tanque que desea monitorear. **Entonces** la app muestra el nivel de agua actual en tiempo real, junto con un gráfico histórico del día. **Escenario: Notificación de Bajo Nivel de Agua** **Dado que** el agricultor está utilizando la app para monitorear varios tanques de agua en diferentes ubicaciones. **Cuando** el nivel de agua en uno de los tanques cae por debajo del umbral mínimo establecido. **Entonces** la app envía una notificación push alertando al agricultor de que debe revisar y posiblemente rellenar el tanque. | EP-002 |
+| US-004 | Configurar alertas personalizadas | Como usuario, quiero configurar alertas personalizadas para recibir notificaciones sobre niveles de agua. | **Escenario: Configuración de Alertas por Nivel Bajo** **Dado que** el usuario quiere recibir alertas cuando el nivel de agua esté bajo. **Cuando** entra en la configuración de alertas y establece un umbral mínimo de nivel de agua. **Entonces** el sistema envía una notificación por correo electrónico y SMS cuando el nivel cae por debajo del umbral. **Escenario: Notificaciones Push** **Dado que** el usuario necesita recibir alertas en su dispositivo móvil. **Cuando** se activa la opción de recibir notificaciones push en la app. **Entonces** el sistema envía alertas push instantáneas cuando se alcanzan los umbrales establecidos. | EP-002 |
+| US-005 | Capacitar usuarios en el uso del sistema | Como administrador, quiero realizar capacitaciones para que los usuarios aprendan a usar el sistema. | **Escenario: Sesión de Capacitación Inicial** **Dado que** el administrador necesita que los usuarios aprendan a utilizar el sistema. **Cuando** organiza una sesión de capacitación donde se explica cómo usar la plataforma. **Entonces** los usuarios comprenden los conceptos básicos y pueden navegar por la plataforma de forma autónoma. **Escenario: Acceso a Recursos de Capacitación** **Dado que** los usuarios requieren apoyo continuo en el uso del sistema. **Cuando** el administrador proporciona acceso a tutoriales y documentos de capacitación en línea. **Entonces** los usuarios pueden consultar los recursos en cualquier momento para resolver dudas. | EP-003 |
+| US-006 | Acceder al historial de datos | Como usuario, quiero acceder al historial de datos para analizar el uso del agua a lo largo del tiempo. | **Escenario: Análisis Semanal de Datos** **Dado que** el usuario necesita analizar el uso del agua durante la última semana.
+
+**Cuando** ingresa a la sección de historial en la plataforma y selecciona el rango de fechas correspondiente.
+
+**Entonces** el sistema muestra un gráfico detallado que representa los niveles de agua durante los días seleccionados, permitiendo al usuario identificar patrones de consumo.
+
+**Escenario: Exportación de Historial de Datos**
+
+**Dado que** el usuario requiere exportar el historial de datos para compartirlo con su equipo.
+
+**Cuando** selecciona la opción de exportar desde la interfaz de la plataforma.
+
+**Entonces** el sistema genera un archivo CSV con los datos de los últimos 30 días y lo descarga automáticamente en su dispositivo. | EP-004 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-007 | Optimizar el riego basado en datos | Como agricultor, quiero optimizar el riego en función de los datos recibidos del sistema. | **Escenario: Recomendación de Riego**
+
+**Dado que** el agricultor monitorea los niveles de agua regularmente.
+
+**Cuando** el sistema detecta que el nivel de agua es óptimo para el riego.
+
+**Entonces** el sistema recomienda ajustar el riego en función de los datos obtenidos.
+
+**Escenario: Ajuste Automático de Riego**
+
+**Dado que** el sistema está configurado para automatizar tareas.
+
+**Cuando** el nivel de agua alcanza el umbral establecido para el riego.
+
+**Entonces** el sistema ajusta automáticamente los tiempos de riego sin intervención manual. | EP-002 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-008 | Automatizar acciones basadas en alertas | Como técnico, quiero que el sistema ejecute acciones automáticamente cuando se activen alertas. | **Escenario: Activación de Bomba de Agua**
+
+**Dado que** el sistema está configurado para responder a alertas críticas.
+
+**Cuando** el nivel de agua baja drásticamente en uno de los tanques.
+
+**Entonces** el sistema activa automáticamente la bomba de agua para rellenar el tanque.
+
+**Escenario: Cierre Automático de Válvula**
+
+**Dado que** se detecta una fuga de agua a través de los sensores.
+
+**Cuando** el sistema recibe la alerta de fuga.
+
+**Entonces** el sistema cierra automáticamente la válvula principal para evitar pérdida de agua. | EP-005 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-009 | Reportar datos incorrectos | Como usuario, quiero poder reportar datos incorrectos para que sean corregidos rápidamente. | **Escenario: Reporte de Anomalías en Datos**
+
+**Dado que** el usuario detecta que los datos mostrados no coinciden con la realidad.
+
+**Cuando** selecciona la opción de reportar error en la app.
+
+**Entonces** el sistema envía un informe detallado al equipo técnico para su revisión.
+
+**Escenario: Confirmación de Reporte**
+
+**Dado que** el usuario ha reportado un error en los datos.
+
+**Cuando** el sistema recibe el reporte.
+
+**Entonces** el usuario recibe una notificación confirmando que su reporte ha sido enviado y está en revisión. | EP-004 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-010 | Actualizar software del sistema | Como administrador, quiero poder actualizar el software del sistema de manera remota y segura. | **Escenario: Actualización Automática en Horario Programado**
+
+**Dado que** el administrador programa actualizaciones regulares del software.
+
+**Cuando** llega la hora programada para la actualización.
+
+**Entonces** el sistema se actualiza automáticamente sin interrumpir el servicio y envía una notificación de finalización exitosa.
+
+**Escenario: Respaldo Automático Antes de la Actualización**
+
+**Dado que** el sistema debe mantener la integridad de los datos.
+
+**Cuando** se inicia una actualización del software.
+
+**Entonces** el sistema crea automáticamente un respaldo de todos los datos antes de proceder con la actualización. | EP-006 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-011 | Monitorear el estado de los sensores | Como usuario, quiero recibir notificaciones sobre el estado de los sensores IoT para asegurar su correcto funcionamiento. | **Escenario: Alerta de Sensor Fuera de Línea**
+
+**Dado que** el sistema monitorea continuamente el estado de los sensores IoT.
+
+**Cuando** un sensor se desconecta o deja de enviar datos.
+
+**Entonces** el sistema envía una alerta inmediata al usuario indicando que el sensor está fuera de línea.
+
+**Escenario: Verificación del Estado de Todos los Sensores**
+
+**Dado que** el usuario quiere asegurarse de que todos los sensores están funcionando correctamente.
+
+**Cuando** accede al panel de control del sistema.
+
+**Entonces** el sistema muestra el estado actual de todos los sensores, incluyendo cualquier fallo o error detectado. | EP-007 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-012 | Proporcionar acceso multiusuario | Como administrador, quiero que múltiples usuarios puedan acceder al sistema con diferentes niveles de permiso. | **Escenario: Creación de Roles y Permisos**
+
+**Dado que** el administrador necesita gestionar el acceso de diferentes usuarios al sistema.
+
+**Cuando** crea roles personalizados con permisos específicos en la plataforma.
+
+**Entonces** los usuarios asignados a esos roles solo pueden acceder a las funciones para las que tienen permisos.
+
+**Escenario: Asignación de Roles a Nuevos Usuarios**
+
+**Dado que** se han añadido nuevos usuarios al sistema.
+
+**Cuando** el administrador asigna roles a estos nuevos usuarios.
+
+**Entonces** los nuevos usuarios reciben un acceso seguro y sus actividades quedan registradas según sus permisos. | EP-006 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-013 | Configurar panel de control personalizado | Como usuario, quiero personalizar mi panel de control para ver solo la información más relevante para mí. | **Escenario: Personalización de Widgets en el Panel**
+
+**Dado que** el usuario desea ver solo la información más relevante en su panel de control.
+
+**Cuando** personaliza su panel añadiendo y organizando widgets.
+
+**Entonces** el sistema guarda automáticamente la configuración del panel y la muestra en su próxima sesión.
+
+**Escenario: Restauración de Configuración de Panel por Defecto**
+
+**Dado que** el usuario quiere restablecer su panel de control a la configuración original.
+
+**Cuando** selecciona la opción de restaurar configuración por defecto.
+
+**Entonces** el sistema elimina las personalizaciones y muestra el panel en su estado predeterminado. | EP-004 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-014 | Generar informes automáticos | Como administrador, quiero que el sistema genere informes automáticos sobre el uso del agua. | **Escenario: Generación Semanal de Informes**
+
+**Dado que** el administrador necesita recibir informes sobre el uso del agua.
+
+**Cuando** el sistema genera un informe automático cada semana.
+
+**Entonces** el informe se envía por correo electrónico al administrador con gráficos y análisis de tendencias.
+
+**Escenario: Configuración de Informes Personalizados**
+
+**Dado que** el administrador desea configurar los informes según las necesidades específicas.
+
+**Cuando** ajusta las configuraciones de los informes automáticos en la plataforma.
+
+**Entonces** el sistema genera y envía informes personalizados que cumplen con los criterios establecidos. | EP-005 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-015 | Integrar el sistema con otras plataformas | Como administrador, quiero que el sistema se integre con otras plataformas de gestión de recursos. | **Escenario: Sincronización de Datos con Otra Plataforma**
+
+**Dado que** el administrador necesita que los datos del sistema se integren con una plataforma externa.
+
+**Cuando** configura la API para la sincronización de datos.
+
+**Entonces** los datos se sincronizan automáticamente entre el sistema y la plataforma externa, sin necesidad de intervención manual.
+
+**Escenario: Importación de Datos desde una Plataforma Externa**
+
+**Dado que** el administrador necesita importar datos desde otra plataforma al sistema.
+
+**Cuando** utiliza la integración configurada para importar datos.
+
+**Entonces** el sistema recibe y almacena los datos importados, permitiendo su visualización y análisis. | EP-006 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-016 | Ofrecer soporte técnico en línea | Como usuario, quiero poder contactar con soporte técnico en línea si tengo problemas con el sistema. | **Escenario: Contacto a Soporte a través de Chat en Vivo**
+
+**Dado que** el usuario tiene un problema técnico con el sistema.
+
+**Cuando** utiliza la función de chat en vivo disponible en la plataforma.
+
+**Entonces** el equipo de soporte técnico responde en tiempo real y asiste al usuario en la resolución del problema.
+
+**Escenario: Envío de Ticket de Soporte**
+
+**Dado que** el usuario necesita asistencia técnica fuera del horario de soporte en vivo.
+
+**Cuando** envía un ticket de soporte desde la plataforma.
+
+**Entonces** el sistema genera un número de ticket y el usuario recibe una confirmación por correo electrónico con el tiempo estimado de respuesta. | EP-007 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-017 | Configurar usuarios como administradores locales | Como superadministrador, quiero asignar permisos de administrador local para que otros gestionen su propio sistema. | **Escenario: Asignación de Permisos de Administrador Local**
+
+**Dado que** el superadministrador necesita que otros usuarios gestionen sus áreas específicas del sistema.
+
+**Cuando** asigna permisos de administrador local a estos usuarios.
+
+**Entonces** los administradores locales pueden gestionar las configuraciones y datos de su área asignada sin acceso a las demás áreas.
+
+**Escenario: Registro de Actividades de Administradores Locales**
+
+**Dado que** el superadministrador necesita monitorear los cambios realizados por los administradores locales.
+
+**Cuando** los administradores locales realizan cambios en el sistema.
+
+**Entonces** el sistema registra todas las actividades realizadas y genera un informe que el superadministrador puede revisar. | EP-006 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-018 | Implementar seguridad de datos | Como usuario, quiero que mis datos estén seguros y cifrados en todo momento. | **Escenario: Cifrado de Datos en Tránsito**
+
+**Dado que** el sistema maneja datos sensibles.
+
+**Cuando** se transmiten datos entre el usuario y el servidor.
+
+**Entonces** el sistema cifra todos los datos en tránsito usando SSL/TLS, asegurando que los datos no puedan ser interceptados.
+
+**Escenario: Autenticación de Dos Factores (2FA)**
+
+**Dado que** el usuario desea asegurar el acceso a su cuenta.
+
+**Cuando** activa la autenticación de dos factores en la configuración de su cuenta.
+
+**Entonces** el sistema requiere un segundo factor de autenticación, como un código enviado al teléfono móvil, para permitir el acceso. | EP-008 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-019 | Configurar notificaciones push | Como usuario, quiero recibir notificaciones push en mi dispositivo móvil sobre cambios importantes en el sistema. | **Escenario: Activación de Notificaciones Push**
+
+**Dado que** el usuario quiere recibir notificaciones instantáneas sobre eventos importantes.
+
+**Cuando** activa las notificaciones push desde la configuración de su dispositivo móvil.
+
+**Entonces** el sistema envía notificaciones push instantáneas sobre los eventos configurados.
+
+**Escenario: Personalización de Notificaciones Push**
+
+**Dado que** el usuario desea recibir notificaciones solo para ciertos eventos.
+
+**Cuando** personaliza las opciones de notificación en la app.
+
+**Entonces** el sistema solo envía notificaciones push para los eventos seleccionados por el usuario. | EP-002 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-020 | Auditar las actividades del sistema | Como auditor, quiero revisar todas las actividades realizadas en el sistema para garantizar la integridad y seguridad. | **Escenario: Revisión de Logs de Auditoría**
+
+**Dado que** el auditor necesita revisar las actividades realizadas en el sistema.
+
+**Cuando** accede a los logs de auditoría desde el panel de administración.
+
+**Entonces** el sistema muestra un registro detallado de todas las acciones realizadas por los usuarios, incluyendo la hora y el usuario responsable.
+
+**Escenario: Exportación de Logs de Auditoría**
+
+**Dado que** el auditor necesita analizar los datos fuera del sistema.
+
+**Cuando** selecciona la opción de exportar los logs de auditoría.
+
+**Entonces** el sistema genera un archivo exportable que contiene todos los registros de auditoría dentro del rango de fechas seleccionado. | EP-008 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-021 | Activación Automática de las Bombas de Agua | Como técnico, quiero que las bombas de agua se activen automáticamente cuando el nivel de agua llegue a un umbral crítico, para evitar que el tanque se quede sin agua. | **Escenario: Activación Automática por Nivel Bajo**
+
+**Dado que** el sistema monitorea los niveles de agua en los tanques de forma constante,
+
+**Cuando** el nivel de agua cae por debajo del umbral mínimo establecido,
+
+**Entonces**, el sistema activa automáticamente las bombas de agua para llenar el tanque hasta el nivel adecuado.
+
+**Escenario: Control Manual de las Bombas**
+
+**Dado que** el técnico desea controlar manualmente las bombas,
+
+**Cuando** accede a la plataforma del sistema y selecciona la opción de control manual,
+
+**Entonces**, el sistema permite activar o desactivar las bombas de agua desde la interfaz. | EP-009 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-022 | Notificación de Baja del Nivel de Agua y Activación de Bombas | Como agricultor, quiero recibir una notificación cuando el nivel de agua esté bajo y la bomba de agua se haya activado, para saber que el sistema está funcionando correctamente. | **Escenario: Notificación de Activación de Bombas**
+
+**Dado que** el nivel de agua en el tanque está bajo,
+
+**Cuando** el sistema activa la bomba de agua para llenar el tanque,
+
+**Entonces** el agricultor recibe una notificación push alertando que las bombas están siendo activadas para restaurar el nivel de agua.
+
+**Escenario: Confirmación de Relleno Completo**
+
+**Dado que** el sistema ha activado la bomba de agua,
+
+**Cuando** el nivel de agua alcanza el umbral predeterminado,
+
+**Entonces** el agricultor recibe una notificación confirmando que el tanque está lleno y las bombas se han desactivado automáticamente. | EP-009 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-023 | Desactivación Automática de las Bombas | Como usuario, quiero que el sistema desactive automáticamente las bombas una vez que el nivel de agua haya alcanzado el umbral máximo para evitar el sobrellenado de los tanques. | **Escenario: Desactivación Automática de Bombas**
+
+**Dado que** el nivel de agua en el tanque ha alcanzado el umbral máximo,
+
+**Cuando** el sistema detecta que el tanque está lleno,
+
+**Entonces**, las bombas se desactivan automáticamente para evitar el desbordamiento.
+
+**Escenario: Confirmación de Desactivación**
+
+**Dado que** el sistema ha desactivado las bombas,
+
+**Cuando** el agricultor consulta la plataforma,
+
+**Entonces**, el sistema muestra un mensaje indicando que las bombas se han desactivado porque el nivel de agua es adecuado. | EP-009 |
+|-----------|------------|-----------------|----------------------------|---------------------------|
+| US-024 | Supervisión y Monitoreo del Estado de las Bombas | Como administrador, quiero poder supervisar el estado de las bombas (encendidas/apagadas) desde el sistema, para asegurarme de que todo esté funcionando correctamente. | **Escenario: Visualización del Estado de las Bombas**
+
+**Dado que** el administrador accede al panel de control,
+
+**Cuando** se muestra el estado de las bombas de agua en el sistema,
+
+**Entonces**, el administrador puede ver si las bombas están encendidas o apagadas, junto con el nivel de agua actual en los tanques.
+
+**Escenario: Alerta de Falla en la Bomba**
+
+**Dado que** el sistema monitorea el funcionamiento de las bombas,
+
+**Cuando** el sistema detecta una falla en las bombas,
+
+**Entonces**, se envía una alerta al administrador notificando que las bombas no están funcionando correctamente. | EP-009 |
